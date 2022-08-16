@@ -11,6 +11,7 @@ ExclusiveArch: %{x86_64}
 
 Requires: adwaita-gtk2-theme
 Requires: lib64gtk-modules2.0
+Requires: lib64gtkglext-x11_1.0_0
 
 %description
 AnyDesk is the fastest remote desktop software on the market. It allows
