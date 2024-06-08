@@ -1,3 +1,5 @@
+%undefine _debugsource_packages
+
 Summary: The world's fastest remote desktop application
 Name:    anydesk
 Version: 6.3.2
