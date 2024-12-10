@@ -2,7 +2,7 @@
 
 Summary: The world's fastest remote desktop application
 Name:    anydesk
-Version: 6.3.3
+Version: 6.4.0
 Release: 1
 License: Proprietary
 Group:   Applications/Internet
